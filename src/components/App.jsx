@@ -1,4 +1,7 @@
 function App () {
+  /* logics */
+
+  /* views */
   return (
     <p>React</p>
   )
