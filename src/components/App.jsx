@@ -1,9 +1,12 @@
-function App () {
-  /* logics */
 
+import Layout from '../layout'
+function App () {
+  /* logics and hooks */
   /* views */
   return (
-    <p>React</p>
+    <Layout>
+      <p>Contenido de prueba</p>
+    </Layout>
   )
 }
 
