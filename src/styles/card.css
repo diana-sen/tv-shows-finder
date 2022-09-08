@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #26282B;
+  }
+
+.card img {
+    
+    height: 20rem;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 576px) {
+    .card img {
+        height: 15rem;
+    }
+}
+
+
+.card-body {
+    background-color:  #353941;
+    color: whitesmoke;
+    min-height: 6.4rem;
+    
+}

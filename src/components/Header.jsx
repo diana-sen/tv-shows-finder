@@ -1,9 +1,9 @@
-
+import '../styles/header.css'
 function Header () {
   /* logics and hooks */
   /* views */
   return (
-    <nav className='navbar navbar-expand-lg bg-light'>
+    <nav className='navbar navbar-expand-lg'>
       <div className='container-fluid'>
         <button className='navbar-toggler' type='button' aria-label='Toggle navigation'>
           <span className='navbar-toggler-icon' />
